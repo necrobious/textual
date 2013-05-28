@@ -2,7 +2,7 @@
 -- documentation, see http://haskell.org/cabal/users-guide/
 
 name:                textual
-version:             0.1.0.0
+version:             0.1.0.2
 synopsis:            A simple Type Class for converting textual datatypes into other textual datatypes.
  description:        Writing boilerplate is boring.     
 homepage:            https://github.com/necrobious/textual
